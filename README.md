@@ -29,12 +29,13 @@ This repository contains a Python script and dataset for analyzing the relations
 python Student_Analysis.py
 ```
 
-
 4. Outputs generated:
 
 Console prints with data exploration, preprocessing info, EDA results, and insights.
 PNG files with visualizations saved in the same folder.
 Cleaned dataset saved as cleaned_student_data.csv. 
+
+---
 
 ## Key Insights from the Analysis
 
@@ -44,6 +45,8 @@ Increased screen time tends to lower CGPA.
 Regular attendance strongly correlates with higher CGPA.
 Lower stress levels correspond to better academic outcomes.
 Participation in extracurricular activities is linked to higher CGPA.
+
+---
 
 ## Notes
 
